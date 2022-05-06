@@ -8,7 +8,7 @@ package twoSum;
  * expects:
  * newArray[0] = array[i]
  * newArray[1] = array[j]
- * return newArray[3,4]
+ * return newArray[4,3]
  */
 public class TwoSumSolution {
 
